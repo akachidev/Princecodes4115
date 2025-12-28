@@ -1,119 +1,129 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20Word!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Moseley&fontSize=60&fontAlignY=35&animation=fadeIn)
 
-<h1 align="center">Let's Connect And Have A Chat 💬</h1>
-
-<div align="center">
-  <a href="https://www.instagram.com/moseley_dev/">
-  <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/e61ef8c3-d074-43dc-899f-4c94877ac487" alt="Image Alt Text" width="50" height="50">
-</a>
-
-<a href="https://www.linkedin.com/in/akachi-nwachukwu-557a63233/">
-  <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/7b20b5ed-eaa1-41e1-a882-f2f26a6c3c83" alt="Image Alt Text" width="50" height="50">
-</a>
-<a href="https://twitter.com/Princecodes4115">
-  <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/0d570cf1-08a6-431c-b5a6-1f6db0427f9b" alt="Image Alt Text" width="50" height="50">
-</a>
-<a href="https://twitter.com/Princecodes4115">
-  <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/88a50376-94a6-4a5b-b877-10e9c9d58bbd" alt="Image Alt Text" width="50" height="50">
-</a>
-
-</div>
-
-***
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="60%" />
-</div>
-
-
-  ```yalm
-name: Nwachukwu Akachi
-located_in: Lagos, Nigeria
-Specialization: Frontend Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "ALX SE Certified Software Engineer",
-    "Andela + Meta React Developer ",
-    "Bachelor's in Computer Science",
-  ]
-currrent company: Calm Global Information Technology.
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Mobile Development",
-    "Machine Learning || AI",
-    "Cloud Engineering"
-  ]
-technical_background:
-  [
-    "Role - Frontend Developer",
-    "Intern - Frontedn Devloper @ Calm Global Information Technology.",
-    "Self_Taugt - Frontend Developer",
-  ]
-  
-currently_learning: ["Dockers,  AWS"]
-2024 Goals: ["Create 40+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Football"]
-```
-
-<h2> 🚀 &nbsp;Some Tools I Have Learnet And Used </h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expresjs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expresjs" width="45" height="45" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodp" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-
-  [![Jest](https://img.shields.io/badge/≡-Jest-C21325?logo=Jest&style=flat-square&labelColor=282828&logoColor=C21325)](https://jestjs.io/)
-[![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
-[![Ubuntu](https://img.shields.io/badge/≡-Ubuntu-E95420?&style=flat-square&logo=Ubuntu&labelColor=282828)](https://ubuntu.com/)
-[![Mocha](https://img.shields.io/badge/≡-Mocha-8D6748?logo=Mocha&style=flat-square&labelColor=282828)](https://mochajs.org/)
-[![Babel](https://img.shields.io/badge/≡-Babel-F9DC3E?logo=Babel&style=flat-square&labelColor=282828)](https://babeljs.io/)
-[![JavaScript](https://img.shields.io/badge/≡-JavaScript-F7DF1E?logo=javascript&style=flat-square&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/)
-[![Nodejs](https://img.shields.io/badge/≡-Nodejs-339933?logo=Node.js&style=flat-square&labelColor=282828)](https://nodejs.org/en/)
-[![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)](https://www.vim.org/)
-[![Vagrant](https://img.shields.io/badge/≡-Vagrant-1563FF?logo=vagrant&style=flat-square&logoColor=1563FF&labelColor=282828)](https://www.vagrantup.com/)
-[![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)
-[![React](https://img.shields.io/badge/≡-React-61DAFB?logo=React&style=flat-square&labelColor=282828)](https://reactjs.org/)
-[![Webpack](https://img.shields.io/badge/≡-Webpack-8DD6F9?logo=Webpack&style=flat-square&labelColor=282828)](https://webpack.js.org/)
-[![ESLint](https://img.shields.io/badge/≡-ESLint-4B32C3?logo=ESLint&style=flat-square&labelColor=282828&logoColor=4B32C3)](https://eslint.org/)
-[![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)](https://github.com/)
-
+<h3 align="center">Software Engineer • AI Developer • Backend-Focused</h3>
+<p align="center">
+Building scalable systems at <strong>Ikeja Electric ⚡</strong>
 </p>
 
-***
+---
 
-![Akachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=princecodes4115&show_icons=true&theme=radical)
+## 👨‍💻 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes4115&hide_progress=true)
+```yaml
+name: Moseley
+location: Lagos, Nigeria
+role: Software Engineer @ Ikeja Electric
 
-<a href="https://github.com/Princecodes4115/github-readme-stats">
+background:
+  - Backend & Full-Stack Engineering
+  - AI Systems & Automation
+  - Production System Support
 
+education:
+  - B.Sc Computer Science
+  - ALX Software Engineering
+  - Andela + Meta React Program
 
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Princecodes4115&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=dark" />
+focus:
+  - AI-powered applications
+  - Scalable backend systems
+  - Cloud-native architecture
+
+interests:
+  - AI Agents & Machine Learning
+  - Backend Architecture & APIs
+  - Distributed Systems
+  - Developer Tooling
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+</p>
+
+### Backend & APIs
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+</p>
+
+### AI & Machine Learning
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354273/react.svg" alt="LangChain" width="40" height="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354202/pinecone-icon.svg" alt="Pinecone" width="40" height="40"/>
+</p>
+
+### Databases
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
+
+### DevOps & Cloud
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Princecodes4115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princecodes4115&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akachidev&theme=tokyonight&hide_border=true" alt="akachidev's streak"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/moseley-an-9a6028282/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Princecodes4115/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princecodes4115&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<a href="https://twitter.com/moseleydev">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
+<a href="https://github.com/akachidev">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://gist.github.com/akachidev">
+  <img src="https://img.shields.io/badge/Gists-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gists"/>
+</a>
+</p>
 
-***
-![Snake animation](https://github.com/Princecodes4115/Princecodes4115/blob/output/github-contribution-grid-snake.svg)
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akachidev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
 
-  [![Your GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github)](https://github.com/Princecodes4115)
-[![Your Website](https://img.shields.io/badge/Website-YourWebsiteURL-brightgreen?style=flat&logo=web)](https://your-website-url.com)
-[![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-Profile-yellow?style=flat&logo=github)](https://gist.github.com/Princecodes4115)
+![Snake animation](https://github.com/akachidev/Princecodes4115/blob/output/github-contribution-grid-snake.svg)
