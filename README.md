@@ -93,8 +93,8 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Princecodes4115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princecodes4115&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akachidev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachidev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -126,4 +126,4 @@ interests:
   <img src="https://komarev.com/ghpvc/?username=akachidev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
-![Snake animation](https://github.com/akachidev/Princecodes4115/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/akachidev/moseley/blob/output/github-contribution-grid-snake.svg)
